@@ -4,3 +4,6 @@ function Hi() {
 function goodbye() {
     console.log(goodbye);
 }
+function reset() {
+    console.log(gitreset);
+}
